@@ -31,7 +31,7 @@ letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus {
-    color: #404BBF;
+    color: #2E2F42;
 }
 .address {
     font-style: normal;
@@ -57,8 +57,7 @@ font-weight: 700;
 line-height: 1.07; 
 letter-spacing: 0.02em;
 }
-.button:hover,
-.button:focus {
+.button {
 color: #FFF;
 text-align: center;
 font-size: 16px;
@@ -66,7 +65,10 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 background-color: #4D5AE5;
-cursor: pointer;
+}
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
 }
 .section-title-small {
     color:  #2E2F42;
