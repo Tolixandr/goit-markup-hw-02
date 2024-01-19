@@ -83,7 +83,7 @@ background-color: #4D5AE5;
     letter-spacing: 0.02em;
 }
 .section-title-small-text {
-    color: #434455);
+    color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; 
@@ -91,6 +91,9 @@ background-color: #4D5AE5;
 }
 .section-ourteam {
     background-color: #F4F4FD;
+}
+.section-title-ourteam-link {
+    background: #FFF;
 }
 .section-title-ourteam {
 color: #2E2F42;
