@@ -31,7 +31,8 @@ letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus {
-      color: #404BBF;
+    color: #2E2F42;
+    cursor: pointer;
 }
 .address {
     font-style: normal;
